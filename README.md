@@ -258,5 +258,5 @@
 
 ---
 
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-Methodology-CC%20BY--NC--SA%204.0-lightgrey.svg)](LICENSE-METHODOLOGY)
-[![License: MIT](https://img.shields.io/badge/License-Code-MIT-yellow.svg)](LICENSE)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](LICENSE-METHODOLOGY)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
