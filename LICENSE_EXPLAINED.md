@@ -114,7 +114,7 @@
 
 Для коммерческого использования методологии:
 - **Email:** blazar-sale@yandex.ru
-- **GitHub Issues:** [Создать issue](../../issues) с тегом `commercial-inquiry`
+- **GitHub Issues:** https://github.com/ScienceInCode/geometric-market-analysis/issues/new?labels=commercial-inquiry&title=Commercial%20License%20Request
 
 ---
 
