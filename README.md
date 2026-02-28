@@ -23,6 +23,18 @@
 
 ---
 
+## 💰 Поддержка Проекта
+
+<div align="center">
+
+[![YooMoney](https://img.shields.io/badge/YooMoney-Поддержать%20Проект-FFDB4D?style=for-the-badge&logo=yoomoney&logoColor=000)](https://yoomoney.ru/to/4100119484022196)
+
+> 💡 Если методология оказалась полезной, вы можете поддержать её развитие
+
+</div>
+
+---
+
 ## 🚀 Быстрый Старт
 
 1. **Прочитайте [QUICKSTART.md](QUICKSTART.md)** для базового понимания
@@ -226,16 +238,6 @@
 - **GitHub Issues:** [Задать вопрос](../../issues)
 - **Коммерческие запросы:** blazar-sale@yandex.ru
 - **Для найма:** [Раздел "О авторе" в методологии]
-
----
-
-## 💰 Поддержка Проекта
-
-Если методология оказалась полезной, вы можете поддержать проект:
-
-[![YooMoney](https://img.shields.io/badge/YooMoney-Поддержать-FFDB4D?style=for-the-badge&logo=yoomoney)](https://yoomoney.ru/to/4100119484022196)
-
-> 💡 **Примечание:** Поддержка проекта помогает развивать методологию и добавлять новые функции.
 
 ---
 
