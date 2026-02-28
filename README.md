@@ -186,8 +186,8 @@
 
 | Компонент | Лицензия | Файл |
 | :--- | :--- | :--- |
-| **Методология (текст)** | CC BY-NC-SA 4.0 | [LICENSE-METHODOLOGY](LICENSE-METHODOLOGY) |
 | **Программный код** | MIT | [LICENSE](LICENSE) |
+| **Методология (текст)** | CC BY-NC-SA 4.0 | [LICENSE-METHODOLOGY](LICENSE-METHODOLOGY) |
 
 **Подробное объяснение:** [LICENSE_EXPLAINED.md](LICENSE_EXPLAINED.md)
 
@@ -258,5 +258,6 @@
 
 ---
 
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](LICENSE-METHODOLOGY)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](LICENSE-METHODOLOGY)
+[![Documentation](https://img.shields.io/badge/docs-SOP_v1.9-blue)](Методология%20Геометрического%20Анализа%20Рынка.md)
